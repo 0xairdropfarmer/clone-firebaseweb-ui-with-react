@@ -33,14 +33,21 @@ then
 ```sh
 npm run start
 ```
-
-
-
-## Run tests
-
-```sh
-npm run test
-```
+## Todo
+- [x] Finish my first commit
+- [ ] Signin with Email and password also Register 
+- [ ] Signin with Email link
+- [ ] Signin with Phone
+- [ ] Signin with Anonymouse
+- [ ] Signin with Email and password also Register 
+- [ ] choice for popup or redirect
+- [ ] Signin with Email and password also Register 
+- [ ] using invisible or visible captcha for phone
+- [ ] Seamless Google sign-in
+- [ ] SignOut
+- [ ] implement React Router Dom
+- [ ] Show Profile
+- [ ] Delete Account
 
 ## Author
 
