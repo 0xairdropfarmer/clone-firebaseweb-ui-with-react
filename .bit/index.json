@@ -1,0 +1,122 @@
+[
+  {
+    "id": {
+      "scope": "bit.envs",
+      "name": "compilers/react"
+    },
+    "isSymlink": false,
+    "hash": "acfc8a808ec3ad8abacd313c9c8b456c1fd7b0b3"
+  },
+  {
+    "id": {
+      "scope": "bit.envs",
+      "name": "internal/get-babel-options"
+    },
+    "isSymlink": false,
+    "hash": "d4771e232e52a7a9ef391bf363d523bc932b014d"
+  },
+  {
+    "id": {
+      "scope": "bit.envs",
+      "name": "internal/babel-base-compiler"
+    },
+    "isSymlink": false,
+    "hash": "98f497a5e1cba818d2d5da02020ed566a572b936"
+  },
+  {
+    "id": {
+      "scope": "bit.utils",
+      "name": "object/has-own-property"
+    },
+    "isSymlink": false,
+    "hash": "68b489f0ac79f13787c77dc1fd6a7beb18a7b6ba"
+  },
+  {
+    "id": {
+      "scope": "bit.utils",
+      "name": "object/group-by"
+    },
+    "isSymlink": false,
+    "hash": "9155f60c15a0d4c1c0301f15ef2a09a99687ca77"
+  },
+  {
+    "id": {
+      "scope": null,
+      "name": "facebook-auth"
+    },
+    "isSymlink": true,
+    "hash": "77275fa4045f5f925f4aa3bc3aa35be392eb44a3"
+  },
+  {
+    "id": {
+      "scope": "krissnawat.firebaseauth",
+      "name": "facebook-auth"
+    },
+    "isSymlink": false,
+    "hash": "fbdab41527c6c7db839af2319153dab9920be469"
+  },
+  {
+    "id": {
+      "scope": null,
+      "name": "google-auth"
+    },
+    "isSymlink": true,
+    "hash": "3ccad73b1d9c594a1050aa5b940caf5371cb95fa"
+  },
+  {
+    "id": {
+      "scope": "krissnawat.firebaseauth",
+      "name": "google-auth"
+    },
+    "isSymlink": false,
+    "hash": "f4547a8c674a404a3bc66462653bb77fd588bd5a"
+  },
+  {
+    "id": {
+      "scope": null,
+      "name": "github-auth"
+    },
+    "isSymlink": true,
+    "hash": "925dae568f6f34115b791a904a83c2ef7aa9fdf5"
+  },
+  {
+    "id": {
+      "scope": "krissnawat.firebaseauth",
+      "name": "github-auth"
+    },
+    "isSymlink": false,
+    "hash": "156b8733211f9e21652f6dc3db5f46a8798c72a8"
+  },
+  {
+    "id": {
+      "scope": null,
+      "name": "microsoft-auth"
+    },
+    "isSymlink": true,
+    "hash": "7244df409af82369b25c8294602f45862ea6fd29"
+  },
+  {
+    "id": {
+      "scope": "krissnawat.firebaseauth",
+      "name": "microsoft-auth"
+    },
+    "isSymlink": false,
+    "hash": "2dc86299705bc79e5e4540f986eb8222d85fa628"
+  },
+  {
+    "id": {
+      "scope": null,
+      "name": "twitter-auth"
+    },
+    "isSymlink": true,
+    "hash": "3f33d2b220a278234924d16b212cf9fbb1e85060"
+  },
+  {
+    "id": {
+      "scope": "krissnawat.firebaseauth",
+      "name": "twitter-auth"
+    },
+    "isSymlink": false,
+    "hash": "927aab60e5bbb48fbc57aa21ea0b9935f4cac82c"
+  }
+]
