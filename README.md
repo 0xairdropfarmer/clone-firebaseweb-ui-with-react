@@ -16,10 +16,24 @@ npm install
 ```
 
 ## Usage
-
+add your key to App.js
+```jsx
+const config = {
+  apiKey: "xxxxxxxxxxx",
+  authDomain: "xxxxxxxxxxx.firebaseapp.com",
+  databaseURL: "https://xxxxxxxxxxx.firebaseio.com",
+  projectId: "xxxxxxxxxxx",
+  storageBucket: "xxxxxxxxxxx.appspot.com",
+  messagingSenderId: "xxxxxxxxxxx",
+  appId: "1:14017xxxxxxxxxxx382be09e",
+};
+```
+then
 ```sh
 npm run start
 ```
+
+
 
 ## Run tests
 
