@@ -1,4 +1,5 @@
 <h1 align="center">Welcome to Clone Firebase Web UI with React 👋</h1>
+<img src="https://i.imgur.com/uKaJ9jy.png"/>
 <p>
   <img src="https://img.shields.io/badge/version-0.1.0-blue.svg?cacheSeconds=2592000" />
   <a href="https://twitter.com/krissanawat101">
