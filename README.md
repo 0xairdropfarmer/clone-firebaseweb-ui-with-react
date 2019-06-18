@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to Clone Firebase Web UI with React 👋</h1>
+<h1 align="center">Welcome to Clone Firebase Web UI with React and make reusable component with Bit :beers: </h1>
 <img src="https://i.imgur.com/uKaJ9jy.png"/>
 <p>
   <img src="https://img.shields.io/badge/version-0.1.0-blue.svg?cacheSeconds=2592000" />
@@ -7,7 +7,7 @@
   </a>
 </p>
 
-> let&#39;s clone <a traget="_blank" href="https://fir-ui-demo-84a6c.firebaseapp.com/" >FirebaseWeb-UI</a> with React and make reusable compoment and share on <a traget="_blank" href="https://bit.dev/krissnawat/firebaseauth/" >Bit and piece</a>
+> let&#39;s clone <a traget="_blank" href="https://fir-ui-demo-84a6c.firebaseapp.com/" >FirebaseWeb-UI</a> with React and make reusable compoment and share on <a traget="_blank" href="https://bit.dev/krissnawat/firebaseauth/" >Bit and Piece</a>
 
 ## Install
 
