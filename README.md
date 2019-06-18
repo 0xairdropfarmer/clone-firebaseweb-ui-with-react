@@ -7,7 +7,7 @@
   </a>
 </p>
 
-> let&#39;s clone FirebaseWeb-UI with React
+> let&#39;s clone <a traget="_blank" href="https://fir-ui-demo-84a6c.firebaseapp.com/" >FirebaseWeb-UI</a> with React and make reusable compoment and share on <a traget="_blank" href="https://bit.dev/krissnawat/firebaseauth/" >Bit and piece</a>
 
 ## Install
 
